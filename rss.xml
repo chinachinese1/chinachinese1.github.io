@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>小鱼仔娱乐</title><description>Fishyflicks</description><link>https://mizuki.mysqil.com/</link><language>zh_CN</language><item><title>小鱼仔娱乐</title><link>https://mizuki.mysqil.com/posts/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</guid><description>关于小鱼仔娱乐</description><pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;::github{repo=&quot;chinachinese1/chinachinese1.github.io&quot;}&lt;/p&gt;
+</content:encoded></item><item><title>我的世界服务器</title><link>https://mizuki.mysqil.com/posts/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%8D%E5%8A%A1%E5%99%A8/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid><description>服务器IP：play.fishyflicks.ggff.net</description><pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;欢迎来到 &amp;lt;font color=&apos;red&apos;&amp;gt;fishyflicks&amp;lt;/font&amp;gt; 我的世界服务器！&lt;/h1&gt;
+&lt;p&gt;一个充满&amp;lt;font color=&apos;orange&apos;&amp;gt;&lt;code&gt;冒险&lt;/code&gt;&amp;lt;/font&amp;gt;、&amp;lt;font color=&apos;green&apos;&amp;gt;&lt;code&gt;创造&lt;/code&gt;&amp;lt;/font&amp;gt;与&amp;lt;font color=&apos;blue&apos;&amp;gt;&lt;code&gt;探索&lt;/code&gt;&amp;lt;/font&amp;gt;的方块世界等待你的加入！&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;ℹ️ 服务器信息 &amp;amp; 快速入门&amp;lt;/font&amp;gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;服务器版本:&amp;lt;/font&amp;gt;&lt;/strong&gt; Java版 1.21.8&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;服务器IP:&amp;lt;/font&amp;gt;&lt;/strong&gt; &amp;lt;font color=&apos;red&apos;&amp;gt;&lt;code&gt;play.fishyflicks.ggff.net&lt;/code&gt;&amp;lt;/font&amp;gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;官网/论坛:&amp;lt;/font&amp;gt;&lt;/strong&gt; &lt;code&gt;https://chinachinese1.github.io/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;QQ群:&amp;lt;/font&amp;gt;&lt;/strong&gt; &lt;code&gt;912810425&lt;/code&gt; &lt;strong&gt;&amp;lt;font color=&apos;white&apos;&amp;gt;(其实还有个659195042哦(≧∇≦)ﾉ)&amp;lt;/font&amp;gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;核心玩法:&amp;lt;/font&amp;gt;&lt;/strong&gt; 生存、建筑、冒险、插件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;🚪 首次登录必读 (AuthMe 登录插件)&amp;lt;/font&amp;gt;&lt;/h3&gt;
+&lt;p&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;新玩家首次进入服务器必须&lt;strong&gt;注册&lt;/strong&gt;和&lt;strong&gt;登录&lt;/strong&gt;以确保账户安全。&amp;lt;/font&amp;gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;注册账户&amp;lt;/font&amp;gt;&lt;/strong&gt;：
+在游戏中输入：
+&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;&lt;code&gt;/register 你的密码 再次输入你的密码&lt;/code&gt;&amp;lt;/font&amp;gt;
+&lt;em&gt;例如: &amp;lt;font color=&apos;lightgrey&apos;&amp;gt;&lt;code&gt;/register MyPassword123 MyPassword123&lt;/code&gt;&amp;lt;/font&amp;gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;登录账户&amp;lt;/font&amp;gt;&lt;/strong&gt;：
+之后每次上线，你需要输入：
+&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;&lt;code&gt;/login 你的密码&lt;/code&gt;&amp;lt;/font&amp;gt;
+&lt;em&gt;例如: &amp;lt;font color=&apos;lightgrey&apos;&amp;gt;&lt;code&gt;/login MyPassword123&lt;/code&gt;&amp;lt;/font&amp;gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;更改密码&amp;lt;/font&amp;gt;&lt;/strong&gt; (如果你需要)：
+&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;&lt;code&gt;/changepassword 旧密码 新密码&lt;/code&gt;&amp;lt;/font&amp;gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;请务必牢记你的密码！&amp;lt;/font&amp;gt;&lt;/strong&gt; 如果忘记密码，请联系管理员处理。&lt;/p&gt;
+&lt;p&gt;&amp;lt;small&amp;gt;ps:其实腐竹还不清楚大部分指令()&amp;lt;/small&amp;gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;✨ 服务器特色与常用功能&amp;lt;/font&amp;gt;&lt;/h2&gt;
+&lt;h3&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;️ 核心保护 (CoreProtect)&amp;lt;/font&amp;gt;&lt;/h3&gt;
+&lt;p&gt;我们使用 &lt;strong&gt;CoreProtect&lt;/strong&gt; 来保护大家的劳动成果和调查恶意破坏。&amp;lt;font color=&apos;green&apos;&amp;gt;任何方块和容器的破坏放置都将被记录。&amp;lt;/font&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;常用指令 (所有玩家均可使用)：&amp;lt;/font&amp;gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;查询方块历史&amp;lt;/font&amp;gt;&lt;/strong&gt;：
+&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;&lt;code&gt;/co i&lt;/code&gt;&amp;lt;/font&amp;gt; 或 &amp;lt;font color=&apos;lightgreen&apos;&amp;gt;&lt;code&gt;/co inspect&lt;/code&gt;&amp;lt;/font&amp;gt;
+激活查询模式后，&lt;strong&gt;左键点击&lt;/strong&gt;一个方块可以查看谁&lt;strong&gt;破坏了&lt;/strong&gt;它；&lt;strong&gt;右键点击&lt;/strong&gt;可以查看谁&lt;strong&gt;放置&lt;/strong&gt;了它。再次输入指令可关闭查询模式。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;查看容器记录&amp;lt;/font&amp;gt;&lt;/strong&gt;：
+&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;&lt;code&gt;/co i&lt;/code&gt;&amp;lt;/font&amp;gt; 激活后，&lt;strong&gt;左键点击&lt;/strong&gt;一个容器（箱子、熔炉等）可以查看谁&lt;strong&gt;拿走了&lt;/strong&gt;里面的物品。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;lightgrey&apos;&amp;gt;(以下指令通常需要权限，供管理员/信任玩家使用，此处列出以供了解)&amp;lt;/font&amp;gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;lt;font color=&apos;lightgrey&apos;&amp;gt;&lt;code&gt;/co lookup&lt;/code&gt; 或 &lt;code&gt;/co l&lt;/code&gt;&amp;lt;/font&amp;gt; - 进行复杂查询（如查询某玩家在特定时间内的所有操作）。&lt;/li&gt;
+&lt;li&gt;&amp;lt;font color=&apos;lightgrey&apos;&amp;gt;&lt;code&gt;/co rollback&lt;/code&gt;&amp;lt;/font&amp;gt; - 回滚某位玩家的破坏行为。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;有趣的互动功能 (Gsit)&amp;lt;/font&amp;gt;&lt;/h3&gt;
+&lt;p&gt;使用 &lt;strong&gt;Gsit&lt;/strong&gt; 插件，你可以让角色做出各种坐、躺、爬行等姿势，非常适合拍照和社交！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;坐在任何地方&amp;lt;/font&amp;gt;&lt;/strong&gt;：
+准心对准一个方块，然后输入：
+&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;&lt;code&gt;/sit&lt;/code&gt;&amp;lt;/font&amp;gt;
+你的角色就会坐在那个方块边上！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;躺下&amp;lt;/font&amp;gt;&lt;/strong&gt;：
+准心对准地面，输入：
+&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;&lt;code&gt;/lay&lt;/code&gt;&amp;lt;/font&amp;gt; 或 &amp;lt;font color=&apos;lightgreen&apos;&amp;gt;&lt;code&gt;/lie&lt;/code&gt;&amp;lt;/font&amp;gt;
+你的角色就会舒服地躺下。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;让宠物坐下/站立&amp;lt;/font&amp;gt;&lt;/strong&gt;：
+准心对准你的狼或猫，输入：
+&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;&lt;code&gt;/pet sit&lt;/code&gt;&amp;lt;/font&amp;gt; 或 &amp;lt;font color=&apos;lightgreen&apos;&amp;gt;&lt;code&gt;/pet stand&lt;/code&gt;&amp;lt;/font&amp;gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;📜 服务器规则&amp;lt;/font&amp;gt;&lt;/h2&gt;
+&lt;p&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;请务必遵守以下规则，共同维护良好的游戏环境。&amp;lt;/font&amp;gt;&lt;/p&gt;
+&lt;h3&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;总则&amp;lt;/font&amp;gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;尊重他人&amp;lt;/font&amp;gt;&lt;/strong&gt;：禁止任何形式的歧视、人身攻击、诽谤、骚扰等行为。文明用语，友好交流。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;禁止作弊&amp;lt;/font&amp;gt;&lt;/strong&gt;：这是大忌！严禁使用任何外挂、黑客软件、BUG、非允许的客户端模组（如X-Ray）获取不公平优势。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;禁止破坏与盗窃&amp;lt;/font&amp;gt;&lt;/strong&gt;：未经允许，不得破坏或窃取其他玩家（包括服务器）的任何建筑、物品和地形。&lt;strong&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;所有行为均有CoreProtect记录，请勿心存侥幸。&amp;lt;/font&amp;gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;禁止刷屏/广告&amp;lt;/font&amp;gt;&lt;/strong&gt;：禁止在聊天频道重复发送相同信息或发布其他服务器、社群的广告。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;游戏内细则&amp;lt;/font&amp;gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;领地规则&amp;lt;/font&amp;gt;&lt;/strong&gt;：尊重他人领地，未经允许不得在其领地内建造、破坏、放置容器。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;PVP规则&amp;lt;/font&amp;gt;&lt;/strong&gt;：仅在双方同意或特定PVP区域进行。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;建筑规则&amp;lt;/font&amp;gt;&lt;/strong&gt;：禁止建造任何淫秽、暴力、政治相关或令人不适的建筑。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;⚠️ 惩罚制度&amp;lt;/font&amp;gt;&lt;/h2&gt;
+&lt;p&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;违反规则将根据情节严重程度受到以下处罚。&lt;strong&gt;所有处罚均通过后台日志（CoreProtect等）核实。&lt;/strong&gt;&amp;lt;/font&amp;gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;违规行为&amp;lt;/font&amp;gt;&lt;/th&gt;
+&lt;th&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;初犯&amp;lt;/font&amp;gt;&lt;/th&gt;
+&lt;th&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;再犯&amp;lt;/font&amp;gt;&lt;/th&gt;
+&lt;th&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;严重违规&amp;lt;/font&amp;gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;轻度破坏/窃取&amp;lt;/font&amp;gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;警告 + 归还赔偿&amp;lt;/font&amp;gt;&lt;/td&gt;
+&lt;td&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;临时禁封 1-3天&amp;lt;/font&amp;gt;&lt;/td&gt;
+&lt;td&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;永久封禁&amp;lt;/font&amp;gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;使用外挂/X-Ray&amp;lt;/font&amp;gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;&lt;strong&gt;永久封禁&lt;/strong&gt;&amp;lt;/font&amp;gt;&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;言语辱骂/骚扰&amp;lt;/font&amp;gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;禁言 1-7天&amp;lt;/font&amp;gt;&lt;/td&gt;
+&lt;td&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;禁言 7-30天&amp;lt;/font&amp;gt;&lt;/td&gt;
+&lt;td&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;永久封禁&amp;lt;/font&amp;gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&amp;lt;font color=&apos;lightgreen&apos;&amp;gt;重大恶意破坏&amp;lt;/font&amp;gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;&lt;strong&gt;永久封禁&lt;/strong&gt;&amp;lt;/font&amp;gt;&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;green&apos;&amp;gt;申诉:&amp;lt;/font&amp;gt;&lt;/strong&gt; 如对处罚有异议，请通过 QQ群(912810425) 联系管理组并提供相关证据进行申诉。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;❓ 常见问题 (FAQ)&amp;lt;/font&amp;gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;Q: 我东西被偷了/家被破坏了怎么办？&amp;lt;/font&amp;gt;&lt;/strong&gt;
+A: 请立即联系在线管理员，并提供你的游戏ID和事发坐标。我们将使用CoreProtect为您查询和追回损失。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;Q: 如何举报作弊？&amp;lt;/font&amp;gt;&lt;/strong&gt;
+A: 请在游戏内输入 &amp;lt;font color=&apos;lightgreen&apos;&amp;gt;&lt;code&gt;/helpop 你的问题&lt;/code&gt;&amp;lt;/font&amp;gt; 或直接在QQ群@群主。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;🏆 管理团队&amp;lt;/font&amp;gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;服主:&amp;lt;/font&amp;gt;&lt;/strong&gt; 小鱼仔娱乐&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;管理员:&amp;lt;/font&amp;gt;&lt;/strong&gt; 空，空&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&amp;lt;font color=&apos;red&apos;&amp;gt;请注意：&amp;lt;/font&amp;gt;&lt;/strong&gt; 管理团队&lt;strong&gt;绝不会&lt;/strong&gt;向您索要密码或钱财。谨防上当受骗！&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;lt;font color=&apos;orange&apos;&amp;gt;感谢您花时间阅读本规则。祝您在&amp;lt;/font&amp;gt; &amp;lt;font color=&apos;red&apos;&amp;gt;fishyflicks&amp;lt;/font&amp;gt; &amp;lt;font color=&apos;orange&apos;&amp;gt;游戏愉快！&amp;lt;/font&amp;gt;&lt;/p&gt;
+</content:encoded></item><item><title>WOW！真的搭起来啦ヾ(≧▽≦*)o</title><link>https://mizuki.mysqil.com/posts/wow%E7%9C%9F%E7%9A%84%E6%90%AD%E8%B5%B7%E6%9D%A5%E5%95%A6/</link><guid isPermaLink="true">https://mizuki.mysqil.com/posts/wow%E7%9C%9F%E7%9A%84%E6%90%AD%E8%B5%B7%E6%9D%A5%E5%95%A6/</guid><description>在2025/9/20完工\(￣︶￣*\))</description><pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;比之前的文档网页好用多了（）&lt;/p&gt;
+</content:encoded></item></channel></rss>
