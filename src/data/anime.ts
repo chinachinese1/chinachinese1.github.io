@@ -1,7 +1,7 @@
 // 本地番剧数据配置
 export type AnimeItem = {
 	title: string;
-	status: "watching" | "completed" | "planned";
+	status: "completed" | "watching" | "planned";
 	rating: number;
 	cover: string;
 	description: string;
@@ -28,7 +28,7 @@ const localAnimeList: AnimeItem[] = [
 		genre: ["Action", "Slice of life"],
 		studio: "A-1 Pictures",
 		link: "https://www.bilibili.com/bangumi/media/md28338623",
-		progress: 12,
+		progress: 8,
 		totalEpisodes: 12,
 		startDate: "2022-07",
 		endDate: "2022-09",
@@ -67,7 +67,7 @@ const localAnimeList: AnimeItem[] = [
 	},
 	{
 		title: "Is the Order a Rabbit?",
-		status: "completed",
+		status: "planned",
 		rating: 9.0,
 		cover: "/assets/anime/tz1.webp",
 		description: "A group of girls' warm daily life",
@@ -82,18 +82,18 @@ const localAnimeList: AnimeItem[] = [
 		endDate: "2014-06",
 	},
 	{
-		title: "The Secret of the Magic Girl",
+		title: "[test]尼奥尼软碳",
 		status: "watching",
 		rating: 9.0,
-		cover: "/assets/anime/cmmn.webp",
+		cover: "/assets/anime/test.jpg",
 		description: "Muli, Muli!",
 		episodes: "12 episodes",
-		year: "2024",
-		genre: ["Daily life", "Healing", "Magic"],
-		studio: "C2C",
-		link: "https://www.bilibili.com/bangumi/media/md26625039",
+		year: "5.25",
+		genre: ["平价花材", "画材推荐", "神器"],
+		studio: "2",
 		progress: 8,
 		totalEpisodes: 12,
+		link: "",
 		startDate: "2025-07",
 		endDate: "2025-10",
 	},
