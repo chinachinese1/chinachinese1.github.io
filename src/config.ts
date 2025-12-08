@@ -21,7 +21,7 @@ const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UTC+8
 export const siteConfig: SiteConfig = {
 	title: "小鱼仔娱乐",
-	subtitle: "现在开始大卖花材！",
+	subtitle: "现在开始大卖画材！",
 	siteURL: "https://www.fishyflicks.ggff.net/", // 请替换为你的站点URL，以斜杠结尾
 	siteStartDate: "2025-08-01", // 站点开始运行日期，用于站点统计组件计算运行天数
 
@@ -139,8 +139,8 @@ export const siteConfig: SiteConfig = {
 
 			subtitle: [
 				"欢迎来到小鱼仔娱乐的博客！",
-				"现在花材大卖特卖！",
-				"商店不止卖花材，还有各种实用资料！",
+				"现在画材大卖特卖！",
+				"商店不止卖画材，还有各种实用资料！",
 				"我的世界服务器1.21.8正式开服！",
 				"超多地形等待探索！",
 			],
