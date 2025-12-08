@@ -20,10 +20,10 @@ import { LinkPreset } from "./types/config";
 const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UTC+8
 export const siteConfig: SiteConfig = {
-	title: "Mizuki",
-	subtitle: "One demo website",
-	siteURL: "https://mizuki.mysqil.com/", // 请替换为你的站点URL，以斜杠结尾
-	siteStartDate: "2025-01-01", // 站点开始运行日期，用于站点统计组件计算运行天数
+	title: "小鱼仔娱乐",
+	subtitle: "现在开始大卖花材！",
+	siteURL: "https://www.fishyflicks.ggff.net/", // 请替换为你的站点URL，以斜杠结尾
+	siteStartDate: "2025-08-01", // 站点开始运行日期，用于站点统计组件计算运行天数
 
 	timeZone: SITE_TIMEZONE,
 
@@ -135,14 +135,14 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "美しいミズキ", // 主页横幅主标题
+			title: "小鱼仔娱乐的博客", // 主页横幅主标题
 
 			subtitle: [
-				"特別なことはないけど、君がいると十分です",
-				"今でもあなたは私の光",
-				"君ってさ、知らないうちに私の毎日になってたよ",
-				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
-				"今日はなんでもない日。でも、ちょっとだけいい日",
+				"欢迎来到小鱼仔娱乐的博客！",
+				"现在花材大卖特卖！",
+				"商店不止卖花材，还有各种实用资料！",
+				"我的世界服务器1.21.8正式开服！",
+				"超多地形等待探索！",
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
@@ -193,9 +193,9 @@ export const siteConfig: SiteConfig = {
 		},
 		cjkFont: {
 			// 中日韩字体 - 作为回退字体
-			fontFamily: "萝莉体 第二版",
+			fontFamily: "手写体 第二版",
 			fontWeight: "500",
-			localFonts: ["萝莉体 第二版.ttf"],
+			localFonts: ["手写体 第二版.ttf"],
 			enableCompress: true, // 启用字体子集优化，减少字体文件大小
 		},
 	},
@@ -241,22 +241,19 @@ export const navBarConfig: NavBarConfig = {
 			icon: "material-symbols:link",
 			children: [
 				{
-					name: "GitHub",
-					url: "https://github.com/matsuzaka-yuki/Mizuki",
-					external: true,
-					icon: "fa6-brands:github",
-				},
-				{
-					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
-					external: true,
+					name: "Bilibli",
 					icon: "fa6-brands:bilibili",
+					url: "https://space.bilibili.com/1481001535",
 				},
 				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
-					external: true,
-					icon: "mdi:git",
+					name: "QQ",
+					icon: "fa6-brands:qq",
+					url: "https://qm.qq.com/q/c0kzbnHMg8",
+				},
+				{
+					name: "GitHub",
+					icon: "fa6-brands:github",
+					url: "https://github.com/matsuzaka-yuki",
 				},
 			],
 		},
@@ -268,7 +265,7 @@ export const navBarConfig: NavBarConfig = {
 				{
 					name: "Anime",
 					url: "/anime/",
-					icon: "material-symbols:movie",
+					icon: "material-symbols:draw",
 				},
 				{
 					name: "Diary",
@@ -331,9 +328,9 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
-	name: "Matsuzaka Yuki",
-	bio: "The world is big, you have to go and see",
+	avatar: "assets/images/小鱼仔娱乐.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	name: "小鱼仔娱乐",
+	bio: "搭好一个网站，何尝不是一种享受生活的方式呢？",
 	typewriter: {
 		enable: true, // 启用个人简介打字机效果
 		speed: 80, // 打字速度（毫秒）
@@ -342,12 +339,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Bilibli",
 			icon: "fa6-brands:bilibili",
-			url: "https://space.bilibili.com/701864046",
-		},
-		{
-			name: "Gitee",
-			icon: "mdi:git",
-			url: "https://gitee.com/matsuzakayuki",
+			url: "https://space.bilibili.com/1481001535",
 		},
 		{
 			name: "GitHub",
@@ -355,14 +347,9 @@ export const profileConfig: ProfileConfig = {
 			url: "https://github.com/matsuzaka-yuki",
 		},
 		{
-			name: "Codeberg",
-			icon: "simple-icons:codeberg",
-			url: "https://codeberg.org",
-		},
-		{
-			name: "Discord",
-			icon: "fa6-brands:discord",
-			url: "https://discord.gg/MqW6TcQtVM",
+			name: "QQ",
+			icon: "fa6-brands:qq",
+			url: "https://qm.qq.com/q/c0kzbnHMg8",
 		},
 	],
 };
@@ -390,13 +377,13 @@ export const commentConfig: CommentConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "Announcement", // 公告标题
-	content: "Welcome to my blog! This is a sample announcement.", // 公告内容
+	title: "最新公告", // 公告标题
+	content: "画材大卖，可前往“我的-画材”进行购买，100%不坑人！", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
 		enable: true, // 启用链接
-		text: "Learn More", // 链接文本
-		url: "/about/", // 链接 URL
+		text: "阅读更多", // 链接文本
+		url: "/buy/", // 链接 URL
 		external: false, // 内部链接
 	},
 };
