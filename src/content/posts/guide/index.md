@@ -1,9 +1,9 @@
 ---
-title: Simple Guides for Mizuki
+title: 教程文本
 published: 2024-04-01
-description: "How to use this blog template."
+description: "防止我忘记"
 image: "./cover.png"
-tags: ["Mizuki", "Blogging", "Customization"]
+tags: ["网站", "博客", "教程"]
 category: Guides
 draft: false
 ---

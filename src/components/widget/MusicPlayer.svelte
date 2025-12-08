@@ -52,9 +52,9 @@ let showError = false;
 
 // 当前歌曲信息
 let currentSong = {
-	title: "Sample Song",
-	artist: "Sample Artist",
-	cover: "/favicon/favicon.ico",
+	title: "小鱼仔娱乐",
+	artist: "准备好听歌了吗",
+	cover: "/favicon/小鱼仔娱乐.png",
 	url: "",
 	duration: 0,
 };
