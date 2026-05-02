@@ -1,11 +1,13 @@
-import { getImage } from "astro:assets";
 // import { getCollection } from "astro:content";
 import type { APIContext, ImageMetadata } from "astro";
+import { getImage } from "astro:assets";
 import MarkdownIt from "markdown-it";
 import { parse as htmlParser } from "node-html-parser";
 import sanitizeHtml from "sanitize-html";
+
 import { profileConfig, siteConfig } from "@/config";
 import { getSortedPosts } from "@/utils/content-utils";
+import { initPostIdMap } from "@/utils/permalink-utils";
 import { getPostUrl } from "@/utils/url-utils";
 
 const markdownParser = new MarkdownIt();
@@ -25,6 +27,9 @@ export async function GET(context: APIContext) {
 	const posts = (await getSortedPosts()).filter(
 		(post) => !post.data.encrypted && post.data.draft !== true,
 	);
+
+	// 初始化文章 ID 映射（用于 permalink 功能）
+	initPostIdMap(posts);
 
 	// 创建Atom feed头部
 	let atomFeed = `<?xml version="1.0" encoding="utf-8"?>
@@ -47,7 +52,9 @@ export async function GET(context: APIContext) {
 
 		for (const img of images) {
 			const src = img.getAttribute("src");
-			if (!src) continue;
+			if (!src) {
+				continue;
+			}
 
 			// Handle content-relative images and convert them to built _astro paths
 			if (
@@ -62,7 +69,9 @@ export async function GET(context: APIContext) {
 					const prefixRemoved = src.slice(2);
 					// Check if this post is in a subdirectory (like bestimageapi/index.md)
 					const postPath = post.id; // This gives us the full path like "bestimageapi/index.md"
-					const postDir = postPath.includes("/") ? postPath.split("/")[0] : "";
+					const postDir = postPath.includes("/")
+						? postPath.split("/")[0]
+						: "";
 
 					if (postDir) {
 						// For posts in subdirectories
@@ -78,7 +87,9 @@ export async function GET(context: APIContext) {
 				} else {
 					// Handle direct filename (no ./ prefix) - assume it's in the same directory as the post
 					const postPath = post.id; // This gives us the full path like "bestimageapi/index.md"
-					const postDir = postPath.includes("/") ? postPath.split("/")[0] : "";
+					const postDir = postPath.includes("/")
+						? postPath.split("/")[0]
+						: "";
 
 					if (postDir) {
 						// For posts in subdirectories
@@ -94,7 +105,10 @@ export async function GET(context: APIContext) {
 				);
 				if (imageMod) {
 					const optimizedImg = await getImage({ src: imageMod });
-					img.setAttribute("src", new URL(optimizedImg.src, context.site).href);
+					img.setAttribute(
+						"src",
+						new URL(optimizedImg.src, context.site).href,
+					);
 				} else {
 					// Debug: log the failed import path
 					console.log(
